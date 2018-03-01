@@ -2,15 +2,14 @@
 
 ## Table of Contents
 
-[TOC]
 
-[Introduction](#introduction)
-[Dataset](#dataset)
-[Project Planning](#project-planning)
-[Process](#process)
-[Results](#results)
-[Resources](#resources)
-[Contributors](#contributors)
+- [Introduction](#introduction)
+- [Dataset](#dataset)
+- [Project Planning](#project-planning)
+- [Process](#process)
+- [Results](#results)
+- [Resources](#resources)
+- [Contributors](#contributors)
 
 
 ## Introduction
