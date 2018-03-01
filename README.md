@@ -1,10 +1,16 @@
 # Data Science Project: Predicting West Nile Virus in Chicago 
 
-## Contributors:
-Meredith Jackson: <meredithmjackson@gmail.com>  
-Russell Peck: <peck.russell@gmail.com>  
-Russell Turner: <russellfturner@gmail.com>  
-Ed Salinas: <edrian.salinas@gmail.com>
+## Table of Contents
+
+- [Introduction](introduction)
+- [Dataset](dataset)
+- [Project Planning](project-planning)
+- [Process](process)
+- [Results](results)
+- [Resources](resources)
+- [Contributors](contributors)
+
+
 
 ## Introduction
 We have been tasked with predicting when and where different species of mosquitoes will test positive for West Nile Virus in Chicago based on the given datasets.  This is part of the [Kaggle](http://https://www.kaggle.com/c/predict-west-nile-virus) competition of the same name.
@@ -21,8 +27,14 @@ The datasets were available on Kaggle and were provided by the [Chicago Departme
 
 ## Results
 
+## Contributors:
+Meredith Jackson: <meredithmjackson@gmail.com>  
+Russell Peck: <peck.russell@gmail.com>  
+Russell Turner: <russellfturner@gmail.com>  
+Ed Salinas: <edrian.salinas@gmail.com>
+
+
 
 ## Resources
-
 
 [Kaggle](http://www.kaggle.com)
